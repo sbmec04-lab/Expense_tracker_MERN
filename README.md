@@ -1,4 +1,3 @@
-# Expense_tracker_MERN
 
 # Expense Tracker - MERN Stack
 
