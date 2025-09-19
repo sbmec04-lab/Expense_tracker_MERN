@@ -4,7 +4,7 @@
 
 A full-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack that allows users to track their personal expenses. This application features secure user authentication, personalized dashboards with data visualization, and a modern, responsive user interface with a dark mode theme.
 
----
+
 
 ---
 ## Key Features
@@ -87,14 +87,4 @@ To get a local copy up and running, follow these simple steps.
     ```
     The app will open and run on `http://localhost:5173` (or another available port).
 
----
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-## Contact
-
-[Your Name] - [Link to Your LinkedIn Profile] - [your.email@example.com]
-
-Project Link: [Link to this GitHub repository]
